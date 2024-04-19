@@ -20,7 +20,7 @@ NIST P-256 is an implementation of a epiliptic curve, providing 256-bit keys tha
 
 [Galois/Counter Mode](https://en.wikipedia.org/wiki/Galois/Counter_Mode) improves performance of AES. In short, it provides authenticated encryption and integrity checking, all with great speed and low latency.
 
-## SPKI-BASE64?
+### SPKI-BASE64?
 [Simple Public Key Infrastructure](https://en.wikipedia.org/wiki/Simple_public-key_infrastructure) (Pronounced Spoo-Key) simplifies linking things to keys, in favor of typical X.509-based public keys. This extension simplifies these keys into Base64 encoding that can be easily transmitted or shared.
 
 # Disclaimers
