@@ -6,7 +6,7 @@ This is a Scratch 3 extension that enables E2EE (End-to-End Encryption).
 ## Under the hood
 This E2EE extension utilizes the same underlying cryptography code that powers CloudLink Omega.
 
-This extension implements ECDH-P256-AES-GCM with SPKI-BASE64 keypairs, allowing Scratch projects to send/receive data over a wide variety of transports. It is highly resistant to attacks, and supports creating shared secrets over insecure transports (e.g. cloud variables).
+This extension implements ECDH-P256-AES-GCM with SPKI-BASE64 keypairs, allowing Scratch projects to send/receive data over a wide variety of transports. It is highly resistant to attacks, and supports creating shared secrets over insecure channels (e.g. cloud variables).
 
 ## What is...
 
