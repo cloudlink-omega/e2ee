@@ -335,5 +335,5 @@ SOFTWARE.
         }
 
         Scratch2.extensions.register(new E2EE())
-    })(Scratch2);    
+    })(Scratch);    
 })();
